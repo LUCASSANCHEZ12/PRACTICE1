@@ -1,3 +1,1 @@
-/* My File Two */
-
-/* My File Edition */
+/* My Other Edition */
